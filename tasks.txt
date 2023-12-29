@@ -1,0 +1,8 @@
+1. 
+bootstraptema.ru saytidan lending page tanlab shuga model yozing. va tanlagan pageni urlini yuboring
+
+2. 
+1) yozgan modellardan kelib chiqgan holatda admin panelni sozlang 
+2) grapellidanfoydalaning 
+3) loyihani githubga yuklab, repositoryni linkini yuboring 
+4) bootstrapni o'rganish
